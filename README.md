@@ -8,8 +8,11 @@
 ## A little bit more about myself:
 
 - 💬 Ask me about **React, Node, Express**
+ 
 - 🥅 2022 Goals: **Learn more about web3**
+ 
 - 📫 How to reach me **briansclark1@gmail.com**
+
 - ⚡ Fun fact: **I am an avid surfer & swimmer**
 
 ## 🛠 Languages and Tools:
