@@ -21,7 +21,8 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/package/19054/default_2be036aaca5c71baf790e00f1ef80dd37a625905.png" alt="bcrypt" width="40" height="40"/> </a></p>
+<a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer"> <img src="https://img.stackshare.io/package/19054/default_2be036aaca5c71baf790e00f1ef80dd37a625905.png" alt="bcrypt" width="40" height="40"/> </a>
+<a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1" alt="sql" width="40" height="40"/> </a></p>
 <br />
 <br />
 
