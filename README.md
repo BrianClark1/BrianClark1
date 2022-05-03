@@ -1,18 +1,16 @@
-# Hi there, I'm Brian Clark  👋 
 
-## I'm a full-stack developer from New York and I enjoy solving problems and building applications with code. Specifically I enjoy the succinct and systematic approach to the art of writing code in the realm of computer science. Being a developer empowers me to cultivate my analytical and creative skillset. 
+<h1 align="center">Hi there, I'm Brian Clark<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+
+<h3 align="center">I'm a full-stack developer from New York and I enjoy solving problems and building applications with code. Specifically I enjoy the succinct and systematic approach to the art of writing code in the realm of computer science. Being a developer empowers me to cultivate my analytical and creative skillset.</h3>
+
+
+## A little bit more about myself:
 
 - 💬 Ask me about **React, Node, Express**
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: **Learn more about web3**
 - 📫 How to reach me **briansclark1@gmail.com**
 - ⚡ Fun fact: **I am an avid surfer & swimmer**
-
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/brianswe/)
-
 
 ## 🛠 Languages and Tools:
 
@@ -25,7 +23,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Brian Clark's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BrianClark1&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
