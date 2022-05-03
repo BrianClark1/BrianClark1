@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @BrianClark1
+                                                              👋 Hi, I’m @BrianClark1
+    
+I am a full-stack developer from New York and I enjoy contributing to the open-source community. I enjoy the process of finding a problem, developing ways to solve it, and then executing on said ways. I find that it helps my creativity and analytical skills.
+      
 - 👀 I’m interested in Machine Learning applications for speech recognition software along with trading algorithms.
 - 🌱 I’m currently learning Python through Automate the Boring Stuff!
 - 💞️ I’m looking to collaborate on any Project associated with Python!
