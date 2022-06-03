@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Brian Clark<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></h1>
+<h1 align="center">Hi there, I'm Brian Clark<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></h1>
 
 
 <h3 align="center">I'm a full-stack developer from New York. I love solving problems. As soon as I discovered that software engineering would allow me to pursue my passion for problem solving, I was hooked. Being a developer empowers me to cultivate my analytical and creative skillset.</h3>
