@@ -19,6 +19,8 @@
 
 - <a href="(https://github.com/2202-Capstone-Uber-Dapp/uber-dapp)" target="_blank">Uber Dapp</a>
 
+- [Uber Dapp](https://github.com/2202-Capstone-Uber-Dapp/uber-dapp)
+
 
 ## 🛠 Languages and Tools:
 
