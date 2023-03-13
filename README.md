@@ -2,14 +2,14 @@
 <h1 align="center">Hi there, I'm Brian Clark<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" ></h1>
 
 
-<h3 align="center">I'm a full-stack developer from New York. I love solving problems. As soon as I discovered that software engineering would allow me to pursue my passion for problem solving, I was hooked. Being a developer empowers me to cultivate my analytical and creative skillset.</h3>
+<h3 align="center">I'm a software engineer from New York. I love solving problems. As soon as I discovered that software engineering would allow me to pursue my passion for problem solving, I was hooked. Being a developer empowers me to cultivate my analytical and creative skillset.</h3>
 
 
 ## A little bit more about myself:
 
-- 💬 Ask me about **React, Node, Express**
+- 💬 Ask me about **React, Node, Express, Java, Python**
  
-- 🥅 2022 Goals: **Learn more about web3**
+- 🥅 2023 Goals: **Learn more about System Design**
  
 - 📫 How to reach me **briansclark1@gmail.com**
 
