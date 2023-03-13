@@ -17,9 +17,11 @@
 
 ## Check out some projects I'm proud of:
 
-- <a href="(https://github.com/2202-Capstone-Uber-Dapp/uber-dapp)" target="_blank">Uber Dapp</a>
+- [PokEbay](https://github.com/Bisque-gs/graceshopper-project)
 
 - [Uber Dapp](https://github.com/2202-Capstone-Uber-Dapp/uber-dapp)
+
+- [Spark](https://github.com/Stackathon-fsa/Spark)
 
 
 ## 🛠 Languages and Tools:
