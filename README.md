@@ -17,7 +17,7 @@
 
 ## Check out some projects I'm proud of:
 
-- <a href="[https://www.google.com/](https://github.com/2202-Capstone-Uber-Dapp/uber-dapp)" target="_blank">Uber Dapp</a>
+- <a href="(https://github.com/2202-Capstone-Uber-Dapp/uber-dapp)" target="_blank">Uber Dapp</a>
 
 
 ## 🛠 Languages and Tools:
