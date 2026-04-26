@@ -1,1 +1,1 @@
-swe in nyc. jp morgan && georgia tech
+swe in nyc. walleye capital && georgia tech
